@@ -35,3 +35,5 @@ HOW TO ADD GIT TO THE SOLUTION:
     . You must be in the root folder project.
     . git init  -> initialize de repository on my local machine for the project
     . dotnet new gitignore -> For create gitignore file
+    . git commit -m "initial git project"
+    . git remote add origin https://github.com/OscarJulianGil/TestApiDotnet.git
