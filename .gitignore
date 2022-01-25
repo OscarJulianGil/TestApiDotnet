@@ -456,3 +456,4 @@ $RECYCLE.BIN/
 #Exclude de json file configuration
 appsettings.json
 README.txt
+README_ANGULAR.txt

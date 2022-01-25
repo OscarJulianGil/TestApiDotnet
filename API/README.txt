@@ -37,3 +37,11 @@ HOW TO ADD GIT TO THE SOLUTION:
     . dotnet new gitignore -> For create gitignore file
     . git commit -m "initial git project"
     . git remote add origin https://github.com/OscarJulianGil/TestApiDotnet.git
+
+COMANDS GIT:
+    git add .
+    git commit -m "Add existing file"
+    git push origin branch-name
+
+HOW IMPLEMENT JWT IN .NET CORE C#:
+
